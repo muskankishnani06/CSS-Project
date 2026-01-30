@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+.container{
+    height: 200px;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    border-radius:5px;
+    width: 100%;
+    background-color: #F0F3F2;
+    background-image: url(../Project/asset/Project-2-Product-Sections-Google-Docs-01-29-2026_11_14_PM.png);
+     background-position: right;
+    background-repeat: no-repeat;
+    text-transform: capitalize;
+
+}
+.h4{
+    margin-top: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 20px;
+ }
+.par{
+    margin-top: 10px;
+    padding-left: 30px;
+    color: #B3C7CE;
+} 
+.para{
+    margin-top: 10px;
+    padding-left: 10px;
+    color: rgb(117, 114, 114);
+    text-align: start;
+}
+.big{
+    width: 300px;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    
+}
+img{
+    align-items: center;
+}
+
+.selector{
+    float: right;
+    text-transform: capitalize;
+    width: 140px;
+    
+}
+table{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    border: 2px solid rgb(207, 200, 200);
+    height: 350px;
+    width: 22%;
+    text-transform: capitalize;
+    display: inline-block;
+    word-spacing: 2px;
+     text-align: center;    
+    justify-content: center;
+    /* float: right; */
+}
+
+.btn1{
+    margin-top: 5px;
+    margin-left:5px;
+    border: none ;
+    color: white;
+      width: 50px;
+      height: 20px;
+    background-color: red;
+    border-radius: 4px;
+    float: inline-start;
+    text-transform: capitalize; 
+}
+.bt{
+    /* margin-top: 5px; */
+    border: none;
+    float: inline-start;
+    color: white;
+    margin-left: 5px;
+    background-color: green;
+    border-radius: 4px;
+    width: 50px;
+    height: 20px;
+}
+.btnn{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 160px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    float: inline-start;
+    text-transform: capitalize; 
+    border: none; 
+}  
+.bold{
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn{
+     background-color: #0AAD0A;
+    text-transform: capitalize;
+    width: 60px;
+    height:30px ;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    float: right;
+}
+.tbl2{
+    height: 150px;
+    text-align: center;
+    justify-content: right;
+    padding: 30px;
+}
+
+
